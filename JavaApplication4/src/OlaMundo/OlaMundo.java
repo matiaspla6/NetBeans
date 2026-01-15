@@ -2,7 +2,7 @@ package OlaMundo;
 
 /**
  *
- * @author Matías Centeno Plá
+ * @author Matías Centeno Plá.
  */
 public class OlaMundo {
 

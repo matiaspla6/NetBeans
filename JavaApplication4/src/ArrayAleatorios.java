@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Matías Centeno Pla
+ * @author Matías Centeno Pla.
  */
 public class ArrayAleatorios {
 
